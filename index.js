@@ -2,7 +2,7 @@
   "use strict";
 
   // the main firebase reference
-  var rootRef = new Firebase('https://didactic-train.firebaseio.com/');
+  var rootRef = new Firebase('https://yelpcamp.firebaseio.com/');
 
   // pair our routes to our form elements and controller
   var routeMap = {
