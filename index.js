@@ -1,3 +1,4 @@
+// This is a change
 (function(jQuery, Firebase, Path) {
   "use strict";
 
